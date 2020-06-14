@@ -13,4 +13,5 @@ repositories {
 dependencies {
     implementation 'ch.jalu:configme:1.1.0'
     implementation 'net.dv8tion:JDA:4.1.1_164'
+    implementation "me.mattstudios.utils:matt-framework-jda:1.1.9-BETA"
 }
