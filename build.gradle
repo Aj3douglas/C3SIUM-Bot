@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'org.aj3douglas'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    implementation 'ch.jalu:configme:1.1.0'
+    implementation 'net.dv8tion:JDA:4.1.1_164'
+}
